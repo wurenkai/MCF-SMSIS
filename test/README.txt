@@ -1,0 +1,1 @@
+This folder holds the visualization result graphs of the stereo matches.

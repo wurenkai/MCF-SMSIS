@@ -1,0 +1,1 @@
+This folder holds the weight files for segmentation training.
