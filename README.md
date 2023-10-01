@@ -12,7 +12,7 @@ instrument segmentation</h1>
 https://github.com/wurenkai/MCF-SMSIS/assets/124028634/a8c9ffdb-0373-462e-b095-3fa04e139bff
 
 
-The manuscript is under review. We are providing validation codes to facilitate the review. We will continue to update our code and instructions.
+## The manuscript is under review. We are providing validation codes to facilitate the review. We will continue to update our code and instructions.
 
 # How to run the code
 
@@ -67,7 +67,7 @@ The SCARED dataset should be obtained from the official website[here](https://en
 # Acknowledgements
 
 Thank you for the help provided by these outstanding efforts.
-* [MSDESIS:](https://github.com/dimitrisPs/msdesis).
-* [CGI-Stereo:](https://github.com/gangweiX/CGI-Stereo).
+* [MSDESIS:](https://github.com/dimitrisPs/msdesis)
+* [CGI-Stereo:](https://github.com/gangweiX/CGI-Stereo)
 
 
