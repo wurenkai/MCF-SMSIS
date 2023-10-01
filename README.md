@@ -56,7 +56,7 @@ The SCARED dataset should be obtained from the official website[here](https://en
 
 
 
-## Evaluation and test
+## Validation and Testing
 * You can proceed to run the test_seg_depth.py and test_seg.py files to verify the parallax and segmentation performance of the model, respectively.
 * The test_only_depth.py file is needed to verify the model performance without combining the features in the segmentation and decoding part.
 * To output the parallax result plot, you can run the test_save_disp.py file and save the result to the test folder.
