@@ -17,7 +17,7 @@ https://github.com/wurenkai/MCF-SMSIS/assets/124028634/a8c9ffdb-0373-462e-b095-3
 # How to run the code
 
 ## Environment
-* NVIDIA RTX 3090
+* NVIDIA GeForce RTX 4080 Laptop GPU (12GB)
 * Python 3.8
 * Pytorch 1.12
 
