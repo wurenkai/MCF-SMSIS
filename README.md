@@ -42,7 +42,7 @@ pip install timm==0.5.4
 ```
 
 ## Data Preparation
-The SCARED dataset should be obtained from the official website [here](https://endovissub2019-scared.grand-challenge.org) under a confidentiality agreement. The dataset also needs to be corrected and the correction toolkit is available at [scared-toolkit](https://github.com/dimitrisPs/scared_toolkit).
+The SCARED dataset should be obtained from the [official website](https://endovissub2019-scared.grand-challenge.org) under a confidentiality agreement. The dataset also needs to be corrected and the correction toolkit is available at [scared-toolkit](https://github.com/dimitrisPs/scared_toolkit).
 
 ## Model weights for each stage
 [S1-dp](https://pan.baidu.com/s/10pc3kzAjKox0-X3tAr09AQ) Link Password:89ja
