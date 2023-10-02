@@ -45,14 +45,14 @@ pip install timm==0.5.4
 The SCARED dataset should be obtained from the [official website](https://endovissub2019-scared.grand-challenge.org) under a confidentiality agreement. The dataset also needs to be corrected and the correction toolkit is available at [scared-toolkit](https://github.com/dimitrisPs/scared_toolkit).
 
 ## Model weights for each stage
-[S1-dp](https://pan.baidu.com/s/10pc3kzAjKox0-X3tAr09AQ) Link Password:89ja
-[S2-dp](https://pan.baidu.com/s/1tN-gPFF5vpsvA2nDUxkIiQ) Link Password:nv68
-[S2-sg](https://pan.baidu.com/s/1hsVqstrlpyKTrm7z9Z4AhQ) Link Password:ttr4
-[S3-dpsg](https://pan.baidu.com/s/14vDAdKWgtQ0yjMUQm7LwhQ) Link Password:9tn7
-[S3-sgdp](https://pan.baidu.com/s/1oHL0VyzA-Q5QwketT_BH6Q) Link Password:z4b4
-[SA-sg](https://pan.baidu.com/s/1MHDzuRN_aBYXBx8BOpBQKA) Link Password:nwuj
-[SB-dp](https://pan.baidu.com/s/1uf9lwODpyFqHwVjZSBI8OQ) Link Password:vbrg
-[SC-dp](https://pan.baidu.com/s/1n56244Umq3MVemcgQgBYQg) Link Password:vtlp
+* [S1-dp](https://pan.baidu.com/s/10pc3kzAjKox0-X3tAr09AQ) Link Password:89ja
+* [S2-dp](https://pan.baidu.com/s/1tN-gPFF5vpsvA2nDUxkIiQ) Link Password:nv68
+* [S2-sg](https://pan.baidu.com/s/1hsVqstrlpyKTrm7z9Z4AhQ) Link Password:ttr4
+* [S3-dpsg](https://pan.baidu.com/s/14vDAdKWgtQ0yjMUQm7LwhQ) Link Password:9tn7
+* [S3-sgdp](https://pan.baidu.com/s/1oHL0VyzA-Q5QwketT_BH6Q) Link Password:z4b4
+* [SA-sg](https://pan.baidu.com/s/1MHDzuRN_aBYXBx8BOpBQKA) Link Password:nwuj
+* [SB-dp](https://pan.baidu.com/s/1uf9lwODpyFqHwVjZSBI8OQ) Link Password:vbrg
+* [SC-dp](https://pan.baidu.com/s/1n56244Umq3MVemcgQgBYQg) Link Password:vtlp
 
 
 
