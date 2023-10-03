@@ -12,7 +12,7 @@ instrument segmentation</h1>
 https://github.com/wurenkai/MCF-SMSIS/assets/124028634/a8c9ffdb-0373-462e-b095-3fa04e139bff
 
 
-## The manuscript is under review. We are providing validation codes to facilitate the review. We will continue to update our code and instructions.
+## The manuscript is under review. We are providing validation codes to facilitate the review. We will continue to update our code and README.md.
 
 # How to run the code
 
