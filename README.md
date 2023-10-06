@@ -45,7 +45,7 @@ pip install timm==0.5.4
 The SCARED dataset should be obtained from the [official website](https://endovissub2019-scared.grand-challenge.org) under a confidentiality agreement. The dataset also needs to be corrected and the correction toolkit is available at [scared-toolkit](https://github.com/dimitrisPs/scared_toolkit).
 
 ## Model weights for each stage
-* S1-dp [Google drive](https://drive.google.com/drive/folders/1B6wKN1_tN73lIU8A7fqttS1o_dYuuHjV?usp=sharing) [Baidu drive](https://pan.baidu.com/s/10pc3kzAjKox0-X3tAr09AQ)Link Password:89ja
+* S1-dp 1.[Google drive](https://drive.google.com/drive/folders/1B6wKN1_tN73lIU8A7fqttS1o_dYuuHjV?usp=sharing) 2.[Baidu drive](https://pan.baidu.com/s/10pc3kzAjKox0-X3tAr09AQ) Link Password:89ja
 * S2-dp(https://pan.baidu.com/s/1tN-gPFF5vpsvA2nDUxkIiQ) Link Password:nv68
 * [S2-sg](https://pan.baidu.com/s/1hsVqstrlpyKTrm7z9Z4AhQ) Link Password:ttr4
 * [S3-dpsg](https://pan.baidu.com/s/14vDAdKWgtQ0yjMUQm7LwhQ) Link Password:9tn7
