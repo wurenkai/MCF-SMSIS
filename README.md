@@ -6,6 +6,12 @@ instrument segmentation</h1>
     Renkai Wu, Pengchen Liang, Yinghao Liu, Yiqi Huang, Weiping Liu, 
     Biao Shu, Panlong Xu, Changyu He* and Qing Chang*
   </p>
+    <p align="center">
+      1. Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China</br>
+      2. Shanghai University, Shanghai, China</br>
+      3. Imperial College London, London, United Kingdom</br>
+      4. Shanghai Microport Medbot (Group) Co.,Ltd., Shanghai, China</br>
+  </p>
 </p>
 
 
