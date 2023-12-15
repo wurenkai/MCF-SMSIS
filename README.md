@@ -3,7 +3,7 @@
 functions for stereo matching and surgical
 instrument segmentation</h1>
   <p align="center">
-    Renkai Wu, Pengchen Liang, Yinghao Liu, Weiping Liu, 
+    Renkai Wu, Pengchen Liang, Yinghao Liu, Yiqi Huang, Weiping Liu, 
     Biao Shu, Panlong Xu, Changyu He* and Qing Chang*
   </p>
 </p>
