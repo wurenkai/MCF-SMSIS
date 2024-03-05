@@ -3,12 +3,12 @@
 functions for stereo matching and surgical
 instrument segmentation</h1>
   <p align="center">
-    Renkai Wu, Pengchen Liang, Yinghao Liu, Yiqi Huang, Weiping Liu, 
-    Biao Shu, Panlong Xu,</br> Changyu He* and Qing Chang*
+    Renkai Wu, Changyu He, Pengchen Liang, Yinghao Liu, Yiqi Huang, Weiping Liu, 
+    Biao Shu, Panlong Xu, Qing Chang*
   </p>
     <p align="center">
-      1. Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China</br>
-      2. Shanghai University, Shanghai, China</br>
+      1. Shanghai University, Shanghai, China</br>
+      2. Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China</br>
       3. Imperial College London, London, United Kingdom</br>
       4. Shanghai Microport Medbot (Group) Co.,Ltd., Shanghai, China</br>
   </p>
