@@ -4,7 +4,7 @@ functions for stereo matching and surgical
 instrument segmentation</h1>
   <p align="center">
     Renkai Wu, Changyu He, Pengchen Liang, Yinghao Liu, Yiqi Huang, Weiping Liu, 
-    Biao Shu, Panlong Xu, Qing Chang*
+    Biao Shu, Panlong Xu, Qing Chang*    
   </p>
     <p align="center">
       1. Shanghai University, Shanghai, China</br>
@@ -14,11 +14,8 @@ instrument segmentation</h1>
   </p>
 </p>
 
-
 https://github.com/wurenkai/MCF-SMSIS/assets/124028634/a8c9ffdb-0373-462e-b095-3fa04e139bff
 
-
-## The manuscript is under review. We are providing validation codes to facilitate the review. We will continue to update our code and README.md.
 
 # How to run the code
 
@@ -67,12 +64,21 @@ The SCARED dataset should be obtained from the [official website](https://endovi
 * To output the parallax result plot, you can run the test_save_disp.py file and save the result to the test folder.
 * To output the segmentation results, run test_save_seg.py and save the results to the results folder.
 
+## Citation
+If you find this repository helpful, please consider citing:
+```
+@article{wu2024mcf,
+  title={MCF-SMSIS: Multi-tasking with complementary functions for stereo matching and surgical instrument segmentation},
+  author={Wu, Renkai and He, Changyu and Liang, Pengchen and Liu, Yinghao and Huang, Yiqi and Liu, Weiping and Shu, Biao and Xu, Panlong and Chang, Qing},
+  journal={Computers in Biology and Medicine},
+  volume={179},
+  pages={108923},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
-
-# Acknowledgements
-
+## Acknowledgements
 Thank you for the help provided by these outstanding efforts.
 * [MSDESIS:](https://github.com/dimitrisPs/msdesis)
 * [CGI-Stereo:](https://github.com/gangweiX/CGI-Stereo)
-
-
